@@ -61,6 +61,9 @@ Disclaimer:- Please remember that if you misuse this tool, you alone will be res
 [![Whatsapp](https://img.shields.io/badge/WHATSAPP-JOINGROUP-green?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Va9B4Vq2UPBKYmb1X33z)
 [![Telegram group](https://img.shields.io/badge/DISCUSSION-FORUM-Pink?style=for-the-badge&logo=forum)](https://bit.ly/3skACfa)
 <a href="https://bit.ly/3RzjdHX"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-Crimson?style=for-the-badge&logo=Youtube"></a>
+<p align="center">
+<a href="https://github.com/Technical-WhiteHat/Cookies-Attack-2.0"><img title="cookies attcak 2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=Technical-WhiteHat&repo=Cookies-Attack-2.0&theme=radical"></a>
+</p>
 
 
 ## <div align="center"> THANK YOU ❤️🥰 DON'T FORGET TO JOIN OUR COMMUNITY </div>
